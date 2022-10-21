@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MakeHabit</string>
+    <string name="Habit1">Habit1</string>
+    <string name="MAKE_HABIT">Make Habit:</string>
+    <string name="Select_Day">Select Day:</string>
+    <string name="Duration">Duration:</string>
+    <string name="Time">Time:</string>
+    <string name="Desc">Desc:</string>
+    <string name="Name">Name:</string>
+    <string name="Add_Desc">Add a Description</string>
+    <string name="egTime">eg: 7:30</string>
+    <string name="Dur">eg: 30 (mins)</string>
+    <string name="Day">eg: Monday</string>
+</resources>
