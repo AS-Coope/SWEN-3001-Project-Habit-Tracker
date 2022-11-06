@@ -1,7 +1,9 @@
 "# SWEN-3001-Project-Routine" 
 
 Group 4
+
 App Name: Routine
+
 ![SPLASH SCREEN](https://user-images.githubusercontent.com/94488901/200152080-58491f5b-4b80-4e89-9e23-ba211a61c9a1.png)
 
 
