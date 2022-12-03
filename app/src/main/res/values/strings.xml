@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">SWEN 3001 Routine Habit Tracker</string>
+    <string name="app_name">Routine Habit Tracker</string>
+    <string name="random_text">New Text</string>
 </resources>
