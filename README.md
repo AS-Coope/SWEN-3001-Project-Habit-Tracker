@@ -15,7 +15,7 @@ Functions:
 3. Allow the user to create a To-Do List for the day (Priority = Medium)
 4. Record the time the user spends on each Habit (Priority = Medium)
 5. Provide the user a Word of Encouragement whenever a Habit is missed (Priority = Low)
-6. Provide notifications to the user when High Priority Habits are close approaching. (Priority = High)
+6. Provide notifications to the user when High Priority Habits are close approaching. (Priority = Low)
 
 Non-Functional Requirements:
-Minimalistic, Speed (High), Reliable Data Storage
+Minimalistic, Speed (High), Reliable Persistent Data Storage.
