@@ -1,4 +1,13 @@
 <resources>
-    <string name="app_name">Routine Habit Tracker</string>
-    <string name="random_text">New Text</string>
+    <string name="app_name">Habiters 2</string>
+    <string name="todo">TODO</string>
+    <string name="select_day_s">Select Day(s):</string>
+    <string name="duration">Duration:</string>
+    <string name="time">Time:</string>
+    <string name="description">Description:</string>
+    <string name="name">Name:</string>
+    <string name="Description">Description</string>
+    <string name="Name">Name</string>
+    <string name="Time">Time</string>
+    <string name="Duration">Duration</string>
 </resources>
