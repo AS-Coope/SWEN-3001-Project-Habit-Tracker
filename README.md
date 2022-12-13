@@ -9,6 +9,8 @@ App Name: Routine
 
 Project Goal: An android app that allows the user to create habits for different days and track their progress along with a to-do list for each day
 
+"Routines make your life much easier. Organize your habits. Become a better you starting today."
+
 Functions:
 1. Allow the user to create Habits via a Habit Maker Screen (Priority = High)
 2. Allow the user to view the Habits via a Habit List Screen (where all the Habits on a specific day are shown under that day, with the day as the heading) or a Calendar view, whichever the user prefers. (Priority = High)
