@@ -7,4 +7,8 @@
     <string name="description">Description:</string>
     <string name="name">Name:</string>
     <string name="make_habit_screen">Make Habit</string>
+    <string name="editDescription">Exercise...</string>
+    <string name="editName">Habit 1</string>
+    <string name="editTime">8:30 am</string>
+    <string name="editDuration">30 min</string>
 </resources>
