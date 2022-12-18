@@ -11,4 +11,5 @@
     <string name="editName">Habit 1</string>
     <string name="editTime">8:30 am</string>
     <string name="editDuration">30 min</string>
+    <string name="createHabitBtn">Create Habit</string>
 </resources>

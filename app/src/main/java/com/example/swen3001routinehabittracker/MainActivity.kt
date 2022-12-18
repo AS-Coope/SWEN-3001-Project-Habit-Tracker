@@ -10,14 +10,14 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
         /*
-        val button1 = findViewById<Button>(R.id.button1)
+        val button1 = findViewById<Button>(R.id.createHabit)
         val button2 = findViewById<Button>(R.id.button2)
 
         button1.setOnClickListener {
             val intent = Intent(this,CreateHabitScreen::class.java)
             startActivity(intent)
         }
-         Button intent to go to the calendar view
+         //Button intent to go to the calendar view
         button2.setOnClickListener {
             val intent = Intent(this,CreateHabitScreen::class.java)
             startActivity(intent)
